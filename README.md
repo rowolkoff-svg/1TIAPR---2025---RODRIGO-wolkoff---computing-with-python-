@@ -2,8 +2,7 @@
 
 # Exercícios de Python - CP1 
 
-Esses são 10 exercícios que fiz em Python usando if, else e elif.  
-Eles resolvem problemas básicos como verificar números, calcular descontos e fazer login.
+
 
 ## Exercícios
 
