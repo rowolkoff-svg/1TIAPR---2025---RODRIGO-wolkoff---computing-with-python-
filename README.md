@@ -36,11 +36,6 @@ Algumas mensagens estão curtas ou sem acento, é normal.
 Precisa ter Python 3 instalado pra rodar.
 
 
----
-
-Se você quiser, posso **montar o README já com emojis e formatação bem “humana”**, tipo algo mais divertido e informal, igual alunos costumam fazer.  
-
-Quer que eu faça isso?
 
 
 
