@@ -4,18 +4,31 @@
 
 
 
+
+
 ## Exercícios
 
 "EX1 – NUMERO NEGATIVO  OU POSITIVO OU ZERO"
+
+
 "EX2 - NUMERO IMPAR OU PAR" 
+
 "EX3 –  MAIOR OU MENOR DE IDADE" 
+
 "EX4 – NOTAS"
+
 "EX5 –  NUMERO COMPARADO"
+
 "EX6 - DESCONTO"
+
 "EX7 – LOGIN"
+
 "EX8 –  MULTIPLOS DE 5" 
+
 "EX9 –  TERMOMETRO"
+
 "EX10 – CALCULADORA"
+
 
 ## Como rodar
 
